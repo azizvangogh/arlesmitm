@@ -1,4 +1,4 @@
 ###USAGE###
-python3 arlesmitm.py --help 
+python3 mitm_attack.py --help 
 Example
-python3 arlesmitm.py -i wlan0 -t1 192.168.1.51(TARGET IP ADRESS) -t2 192.168.1.1 (ROUTER IP ADRESS) -f --clock
+python3 mitm_attack.py -i wlan0 -t1 192.168.1.51(TARGET IP ADRESS) -t2 192.168.1.1 (ROUTER IP ADRESS) -f --clock
