@@ -1,0 +1,5 @@
+###INSTALLATION### 
+for linux 
+git clone https://github.com/azizvangogh/arlesmitm/ 
+python3 arlesmitm.py 
+for windows download this repo and open with pycharm or visual studio code
